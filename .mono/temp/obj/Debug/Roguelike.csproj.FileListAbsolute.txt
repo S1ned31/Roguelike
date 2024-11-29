@@ -7,3 +7,4 @@ C:\Godot\Roguelike\.mono\temp\bin\Debug\Roguelike.dll
 C:\Godot\Roguelike\.mono\temp\bin\Debug\Roguelike.pdb
 C:\Godot\Roguelike\.mono\temp\obj\Debug\Roguelike.dll
 C:\Godot\Roguelike\.mono\temp\obj\Debug\Roguelike.pdb
+C:\Godot\Roguelike\.mono\temp\obj\Debug\Roguelike.sourcelink.json

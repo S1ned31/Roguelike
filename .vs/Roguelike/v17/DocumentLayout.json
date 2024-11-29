@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Godot\\Roguelike\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Godot\\Roguelike\\Scripts\\Main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Scripts\\Main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Godot\\Roguelike\\Scripts\\Entites\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Scripts\\Entites\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Godot\\Roguelike\\Scripts\\Dungeon\\Level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Scripts\\Dungeon\\Level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Godot\\Roguelike\\Scripts\\Entites\\Entity.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Scripts\\Entites\\Entity.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Godot\\Roguelike\\Scripts\\Entites\\EntityBody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Scripts\\Entites\\EntityBody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Godot\\Roguelike\\Scripts\\Entites\\EntityData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Scripts\\Entites\\EntityData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Godot\\Roguelike\\Scripts\\Utilites\\Imageloader.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Scripts\\Utilites\\Imageloader.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Godot\\Roguelike\\Scripts\\Entites\\EntityData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Scripts\\Entites\\EntityData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Godot\\Roguelike\\Scripts\\Dungeon\\Chunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Scripts\\Dungeon\\Chunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Godot\\Roguelike\\Scripts\\Dungeon\\Level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Scripts\\Dungeon\\Level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Godot\\Roguelike\\Scripts\\Dungeon\\Room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,16 +39,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Scripts\\Dungeon\\ArtCanvas.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Godot\\Roguelike\\Scripts\\Entites\\EntityBody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Scripts\\Entites\\EntityBody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Godot\\Roguelike\\Scripts\\Dungeon\\Chunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Scripts\\Dungeon\\Chunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Godot\\Roguelike\\Scripts\\Entites\\Entity.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Scripts\\Entites\\Entity.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Godot\\Roguelike\\Scripts\\Main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Scripts\\Main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,11 +50,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Godot\\Roguelike\\Scripts\\Dungeon\\Room.cs",
+              "RelativeDocumentMoniker": "Scripts\\Dungeon\\Room.cs",
+              "ToolTip": "C:\\Godot\\Roguelike\\Scripts\\Dungeon\\Room.cs",
+              "RelativeToolTip": "Scripts\\Dungeon\\Room.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:02:39.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Level.cs",
+              "DocumentMoniker": "C:\\Godot\\Roguelike\\Scripts\\Dungeon\\Level.cs",
+              "RelativeDocumentMoniker": "Scripts\\Dungeon\\Level.cs",
+              "ToolTip": "C:\\Godot\\Roguelike\\Scripts\\Dungeon\\Level.cs",
+              "RelativeToolTip": "Scripts\\Dungeon\\Level.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAwwHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:59:28.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Chunk.cs",
+              "DocumentMoniker": "C:\\Godot\\Roguelike\\Scripts\\Dungeon\\Chunk.cs",
+              "RelativeDocumentMoniker": "Scripts\\Dungeon\\Chunk.cs",
+              "ToolTip": "C:\\Godot\\Roguelike\\Scripts\\Dungeon\\Chunk.cs",
+              "RelativeToolTip": "Scripts\\Dungeon\\Chunk.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:03:09.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Godot\\Roguelike\\Scripts\\Entites\\Entity.cs",
+              "RelativeDocumentMoniker": "Scripts\\Entites\\Entity.cs",
+              "ToolTip": "C:\\Godot\\Roguelike\\Scripts\\Entites\\Entity.cs",
+              "RelativeToolTip": "Scripts\\Entites\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:43:40.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ArtCanvas.cs",
               "DocumentMoniker": "C:\\Godot\\Roguelike\\Scripts\\Dungeon\\ArtCanvas.cs",
               "RelativeDocumentMoniker": "Scripts\\Dungeon\\ArtCanvas.cs",
@@ -67,119 +119,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Room.cs",
-              "DocumentMoniker": "C:\\Godot\\Roguelike\\Scripts\\Dungeon\\Room.cs",
-              "RelativeDocumentMoniker": "Scripts\\Dungeon\\Room.cs",
-              "ToolTip": "C:\\Godot\\Roguelike\\Scripts\\Dungeon\\Room.cs",
-              "RelativeToolTip": "Scripts\\Dungeon\\Room.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T11:02:39.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Level.cs",
-              "DocumentMoniker": "C:\\Godot\\Roguelike\\Scripts\\Dungeon\\Level.cs",
-              "RelativeDocumentMoniker": "Scripts\\Dungeon\\Level.cs",
-              "ToolTip": "C:\\Godot\\Roguelike\\Scripts\\Dungeon\\Level.cs",
-              "RelativeToolTip": "Scripts\\Dungeon\\Level.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAAH0AAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T10:59:28.738Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Chunk.cs",
-              "DocumentMoniker": "C:\\Godot\\Roguelike\\Scripts\\Dungeon\\Chunk.cs",
-              "RelativeDocumentMoniker": "Scripts\\Dungeon\\Chunk.cs",
-              "ToolTip": "C:\\Godot\\Roguelike\\Scripts\\Dungeon\\Chunk.cs",
-              "RelativeToolTip": "Scripts\\Dungeon\\Chunk.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T11:03:09.109Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Imageloader.cs",
               "DocumentMoniker": "C:\\Godot\\Roguelike\\Scripts\\Utilites\\Imageloader.cs",
               "RelativeDocumentMoniker": "Scripts\\Utilites\\Imageloader.cs",
               "ToolTip": "C:\\Godot\\Roguelike\\Scripts\\Utilites\\Imageloader.cs",
               "RelativeToolTip": "Scripts\\Utilites\\Imageloader.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-03T11:33:55.118Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Godot\\Roguelike\\Scripts\\Entites\\Player.cs",
               "RelativeDocumentMoniker": "Scripts\\Entites\\Player.cs",
               "ToolTip": "C:\\Godot\\Roguelike\\Scripts\\Entites\\Player.cs",
               "RelativeToolTip": "Scripts\\Entites\\Player.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAdAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvw4AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-03T11:31:40.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "EntityData.cs",
               "DocumentMoniker": "C:\\Godot\\Roguelike\\Scripts\\Entites\\EntityData.cs",
               "RelativeDocumentMoniker": "Scripts\\Entites\\EntityData.cs",
               "ToolTip": "C:\\Godot\\Roguelike\\Scripts\\Entites\\EntityData.cs",
               "RelativeToolTip": "Scripts\\Entites\\EntityData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwB0AAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T12:49:11.933Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Main.cs",
               "DocumentMoniker": "C:\\Godot\\Roguelike\\Scripts\\Main.cs",
               "RelativeDocumentMoniker": "Scripts\\Main.cs",
               "ToolTip": "C:\\Godot\\Roguelike\\Scripts\\Main.cs",
               "RelativeToolTip": "Scripts\\Main.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA6AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T12:39:17.357Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "EntityBody.cs",
               "DocumentMoniker": "C:\\Godot\\Roguelike\\Scripts\\Entites\\EntityBody.cs",
               "RelativeDocumentMoniker": "Scripts\\Entites\\EntityBody.cs",
               "ToolTip": "C:\\Godot\\Roguelike\\Scripts\\Entites\\EntityBody.cs",
               "RelativeToolTip": "Scripts\\Entites\\EntityBody.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAADAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwDEAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T12:48:26.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Entity.cs",
-              "DocumentMoniker": "C:\\Godot\\Roguelike\\Scripts\\Entites\\Entity.cs",
-              "RelativeDocumentMoniker": "Scripts\\Entites\\Entity.cs",
-              "ToolTip": "C:\\Godot\\Roguelike\\Scripts\\Entites\\Entity.cs",
-              "RelativeToolTip": "Scripts\\Entites\\Entity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T12:43:40.92Z",
               "EditorCaption": ""
             }
           ]
