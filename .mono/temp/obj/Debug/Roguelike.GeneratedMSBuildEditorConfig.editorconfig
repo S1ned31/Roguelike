@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Roguelike
+build_property.ProjectDir = C:\Godot\Roguelike\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
