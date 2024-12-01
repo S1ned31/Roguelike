@@ -1,12 +1,13 @@
 using System;
 using System.Collections.Generic;
 using System.Globalization;
+using System.Linq;
 using Godot;
 using Roguelike.Dungeon;
 
 namespace Roguelike.Dungeon
 {
-	public class Level
+	public class Level : Node
 	{
 		public TileMap Walls { get; private set; }
 		public TileMap Floor { get; private set; }
@@ -15,6 +16,8 @@ namespace Roguelike.Dungeon
 		private Vector2 _Size;
 
 		public List<Chunk> ChunkList = new List<Chunk>();
+
+		public List<Room> Rooms => ChunkList.Select(chunk => chunk.Room).Where(room => room != null).ToList();
 
 		private int _ChunkSize;
 		private int _MinRoomSize = 0;

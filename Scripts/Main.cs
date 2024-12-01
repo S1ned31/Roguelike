@@ -18,6 +18,9 @@ namespace Roguelike.Entities
 			_Player = new Player();
 			_Player.ConnectToNode(_Dungeon.Walls);
 			_Player.SetPosition(_Dungeon.ChunkList[0].Room.Center);
+
+			EnemySpawner spawner = new EnemySpawner();
+			spawner.SpawnEnemies(_Dungeon); 
 		}
 	}
 }

@@ -12,6 +12,8 @@ namespace Roguelike.Dungeon
 		public Vector2 Center { get; private set; }
 		public Random _Rand = new Random();
 
+		public Rect2 Bounds => new Rect2(Position, new Vector2(Width, Height));
+
 		public Room(TileMap tileMap, Vector2 chunkPos, int chunkSize, int minSize,  int maxSize)
 		{
 			Width = _Rand.Next(minSize, maxSize);
