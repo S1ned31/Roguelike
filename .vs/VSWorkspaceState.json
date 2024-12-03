@@ -8,6 +8,6 @@
     "\\Scripts\\Entites",
     "\\Scripts\\Utilites"
   ],
-  "SelectedNode": "\\Scenes\\Player.tscn",
+  "SelectedNode": "\\Scripts\\Entites\\Enemy_Orc.cs",
   "PreviewInSolutionExplorer": false
 }
