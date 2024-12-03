@@ -2,11 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\Resourses",
+    "\\Scenes",
     "\\Scripts",
     "\\Scripts\\Dungeon",
     "\\Scripts\\Entites",
     "\\Scripts\\Utilites"
   ],
-  "SelectedNode": "\\Scripts\\Main.cs",
+  "SelectedNode": "\\Scenes\\Player.tscn",
   "PreviewInSolutionExplorer": false
 }

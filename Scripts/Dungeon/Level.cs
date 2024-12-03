@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Globalization;
 using Godot;
 using Roguelike.Dungeon;
+using Roguelike.Entities;
+
 
 namespace Roguelike.Dungeon
 {
@@ -58,6 +60,7 @@ namespace Roguelike.Dungeon
 			GenerateRooms();
 			FindPath();
 			GenerateCorridor();
+			SpawnEnemies();
 		}
 
 		private void FillArea(TileMap tileMap, Vector2 pos, Vector2 size, int idTile)
@@ -169,6 +172,21 @@ namespace Roguelike.Dungeon
 			}
 			Walls.UpdateBitmaskRegion();
 
+		}
+
+		private void SpawnEnemies()
+		{
+			for (int i = 0; i < 40; i++)
+			{
+				if (i >= ChunkList.Count) break;
+				var chunk = ChunkList[i];
+				if (chunk.Room != null)
+				{
+					var enemy = new Enemy();
+					enemy.SetPosition(chunk.Room.Center);
+					Walls.AddChild(enemy);
+				}
+			}
 		}
 	}
 }

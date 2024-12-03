@@ -18,7 +18,7 @@ namespace Roguelike.Entities
 
 			Body.PhysicProcess = PhysicProcess;
 			Body.Process = Process;
-			Body.Input = Input;
+			Body.Input = HandleInput;
 		}
 
 		public void PhysicProcess(float delta)
@@ -29,7 +29,7 @@ namespace Roguelike.Entities
 		{
 		}
 
-		public void Input(InputEvent ev)
+		public void HandleInput(InputEvent ev)
 		{
 		}
 
