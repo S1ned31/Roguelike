@@ -10,9 +10,10 @@ public class Enemy_Orc : KinematicBody2D
 	private Vector2 _velocity = new Vector2();
 	private Random _random = new Random();
 	private AnimatedSprite _animatedSprite;
+	private Area2D _AttackArea;
 
 	private bool _isDead = false;
-	private bool _isTakingDamage = false; // Вказує, чи програється анімація попадання
+	private bool _isTakingDamage = false; // Указывает, проигрывается ли анимация получения урона
 
 	public override void _Ready()
 	{
@@ -36,8 +37,7 @@ public class Enemy_Orc : KinematicBody2D
 			}
 			else
 			{
-				_velocity = Vector2.Zero;
-				SetRandomDirection();
+				_velocity = Vector2.Zero; SetRandomDirection();
 			}
 		}
 
@@ -45,7 +45,7 @@ public class Enemy_Orc : KinematicBody2D
 		{
 			_animatedSprite.Play("Walk");
 		}
-		else
+		else 
 		{
 			_animatedSprite.Play("Stay");
 		}
@@ -66,12 +66,12 @@ public class Enemy_Orc : KinematicBody2D
 
 		if (_currentHealth > 0)
 		{
-			// Якщо ворог ще живий, то програемо анімацію попадання
+			// Если враг ещё жив, проигрываем анимацию попадания
 			PlayHurtAnimation();
 		}
 		else
 		{
-			Die(); // Якщо здоров'я нема - вбиваемо
+			Die(); // Если здоровье на нуле, убиваем
 		}
 	}
 
@@ -93,15 +93,15 @@ public class Enemy_Orc : KinematicBody2D
 
 	private void Die()
 	{
-		_isDead = true; // Помічаємо ворога, як мертвого
-		_velocity = Vector2.Zero; // Зупняемо його рух 
-		_animatedSprite.Play("Death"); // Програемо анімацію смерті
+		_isDead = true; // Помечаем врага как мёртвого
+		_velocity = Vector2.Zero; // Останавливаем его движение
+		_animatedSprite.Play("Death"); // Проигрываем анимацию смерти
 
-		// Відключаео його
+		// Отключаем его
 		var collisionShape = GetNode<CollisionShape2D>("CollisionShape2D");
 		collisionShape.Disabled = true;
 
-		// Видаляємо ворога зі сцени після завершення аніманії
+		// Удаляем врага со сцены после завершения анимации
 		_animatedSprite.Connect("animation_finished", this, nameof(OnDeathAnimationFinished));
 	}
 
@@ -110,7 +110,6 @@ public class Enemy_Orc : KinematicBody2D
 		QueueFree();
 	}
 
-
 	private void GameOver()
 	{
 		GD.Print("Game Over!");
@@ -118,8 +117,3 @@ public class Enemy_Orc : KinematicBody2D
 		GetTree().Paused = true;
 	}
 }
-
-
-
-
-
